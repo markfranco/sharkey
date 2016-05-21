@@ -14,7 +14,7 @@
 #import "RCTRootView.h"
 
 #define TIMEOUT_SECONDS 240
-#define TEXT_TO_LOOK_FOR @"Snowflake"
+#define TEXT_TO_LOOK_FOR @"snowflake"
 
 @interface snowflakeTests : XCTestCase
 
