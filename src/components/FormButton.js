@@ -15,7 +15,7 @@ const
   StyleSheet,
   View
 } = React;
-  
+
 /**
  * The platform neutral button
  */
@@ -40,17 +40,12 @@ var FormButton = React.createClass({
   /**
    * ### render
    *
-   * Display the Button 
+   * Display the Button
    */
   render() {
     return (
       <View style={styles.signin}>
-        <Button style={styles.button}
-            isDisabled={this.props.isDisabled}
-            onPress={this.props.onPress}
-        >
-          {this.props.buttonText}
-        </Button>
+
       </View>
     );
   }
