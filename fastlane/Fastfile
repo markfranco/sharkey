@@ -9,7 +9,7 @@ platform :ios do
 
             sh("xctool -project ../ios/snowflake.xcodeproj -scheme snowflake clean archive -archivePath ../build/snowflake")
 
-            sh("xcodebuild -exportArchive -exportFormat ipa -archivePath ../build/snowflake.xcarchive -exportPath ../build/snowflake.ipa -exportProvisioningProfile 'iOS Team Provisioning Profile:*'")
+            sh("xcodebuild -exportArchive -exportFormat ipa -archivePath ../build/snowflake.xcarchive -exportPath ../build/snowflake.ipa -exportProvisioningProfile 'iOS Team Provisioning Profile: markfranco.*'")
 
             sh("cp ../build/snowflake.ipa $BITRISE_DEPLOY_DIR")
         end
