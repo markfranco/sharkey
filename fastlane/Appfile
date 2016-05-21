@@ -1,2 +1,2 @@
-app_identifier "org.markfranco.snowflake" # The bundle identifier of your app
+app_identifier "markfranco.snowflake" # The bundle identifier of your app
 apple_id "markrfranco@gmail.com" # Your Apple email address
