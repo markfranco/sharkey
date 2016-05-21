@@ -637,7 +637,7 @@
 				OTHER_LDFLAGS = "-ObjC";
 				PRODUCT_BUNDLE_IDENTIFIER = markfranco.snowflake;
 				PRODUCT_NAME = snowflake;
-				PROVISIONING_PROFILE = "778064cf-4cde-4be2-b76b-39e5ff985d34";
+				PROVISIONING_PROFILE = "f6f0b8b6-4f4e-4290-b3ea-d0ddc960d34d";
 				VERSIONING_SYSTEM = "apple-generic";
 			};
 			name = Debug;
@@ -659,7 +659,7 @@
 				OTHER_LDFLAGS = "-ObjC";
 				PRODUCT_BUNDLE_IDENTIFIER = markfranco.snowflake;
 				PRODUCT_NAME = snowflake;
-				PROVISIONING_PROFILE = "778064cf-4cde-4be2-b76b-39e5ff985d34";
+				PROVISIONING_PROFILE = "f6f0b8b6-4f4e-4290-b3ea-d0ddc960d34d";
 				VERSIONING_SYSTEM = "apple-generic";
 			};
 			name = Release;
