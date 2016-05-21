@@ -635,7 +635,7 @@
 				INFOPLIST_FILE = snowflake/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_LDFLAGS = "-ObjC";
-				PRODUCT_BUNDLE_IDENTIFIER = org.markfranco.snowflake;
+				PRODUCT_BUNDLE_IDENTIFIER = markfranco.snowflake;
 				PRODUCT_NAME = snowflake;
 				PROVISIONING_PROFILE = "778064cf-4cde-4be2-b76b-39e5ff985d34";
 				VERSIONING_SYSTEM = "apple-generic";
@@ -656,7 +656,7 @@
 				INFOPLIST_FILE = snowflake/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_LDFLAGS = "-ObjC";
-				PRODUCT_BUNDLE_IDENTIFIER = org.markfranco.snowflake;
+				PRODUCT_BUNDLE_IDENTIFIER = markfranco.snowflake;
 				PRODUCT_NAME = snowflake;
 				PROVISIONING_PROFILE = "778064cf-4cde-4be2-b76b-39e5ff985d34";
 				VERSIONING_SYSTEM = "apple-generic";
