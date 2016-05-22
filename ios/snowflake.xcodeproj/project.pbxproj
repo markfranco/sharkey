@@ -24,10 +24,10 @@
 		362534D31C1C5551003948CD /* Media.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 362534D21C1C5551003948CD /* Media.xcassets */; };
 		36ED1C181C12063B0080BCE0 /* FontAwesome.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 36ED1C171C12063B0080BCE0 /* FontAwesome.ttf */; };
 		832341BD1AAA6AB300B99B32 /* libRCTText.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 832341B51AAA6A8300B99B32 /* libRCTText.a */; };
-		9451B5D61CF1176D00D14B73 /* libRCTFBLogin.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 9451B5D51CF1172800D14B73 /* libRCTFBLogin.a */; };
 		9451B5DA1CF11C8E00D14B73 /* FBSDKCoreKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9451B5D71CF11C8E00D14B73 /* FBSDKCoreKit.framework */; };
 		9451B5DB1CF11C8E00D14B73 /* FBSDKLoginKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9451B5D81CF11C8E00D14B73 /* FBSDKLoginKit.framework */; };
 		9451B5DC1CF11C8E00D14B73 /* FBSDKShareKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9451B5D91CF11C8E00D14B73 /* FBSDKShareKit.framework */; };
+		9451B5F31CF13DD100D14B73 /* libRCTFBLogin.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 9451B5D51CF1172800D14B73 /* libRCTFBLogin.a */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -159,10 +159,10 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9451B5F31CF13DD100D14B73 /* libRCTFBLogin.a in Frameworks */,
 				9451B5DA1CF11C8E00D14B73 /* FBSDKCoreKit.framework in Frameworks */,
 				9451B5DB1CF11C8E00D14B73 /* FBSDKLoginKit.framework in Frameworks */,
 				9451B5DC1CF11C8E00D14B73 /* FBSDKShareKit.framework in Frameworks */,
-				9451B5D61CF1176D00D14B73 /* libRCTFBLogin.a in Frameworks */,
 				146834051AC3E58100842450 /* libReact.a in Frameworks */,
 				00C302E51ABCBA2D00DB3ED1 /* libRCTActionSheet.a in Frameworks */,
 				00C302E71ABCBA2D00DB3ED1 /* libRCTGeolocation.a in Frameworks */,
